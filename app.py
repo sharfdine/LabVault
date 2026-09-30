@@ -17,8 +17,9 @@ import json
 import os
 from datetime import datetime, date
 import database
-import cloud_sync
-CLOUD_SYNC_AVAILABLE = True 
+try:
+    import cloud_sync
+    CLOUD_SYNC_AVAILABLE = True 
 except ImportError:
     CLOUD_SYNC_AVAILABLE = False
 
