@@ -1,6 +1,6 @@
 """
 Interactive Lab Automation & Inventory Management Dashboard
-PharmD & Chemistry Labs (Lab 135-B & Lab 138-B)
+Pharmacy Department 
 Features:
 1. Editable Lab Schedule & Pre-Planning (from Timetable PDF) with Semester & Week support
 2. Experiment Logging & Pharmacy-Style Chemical Deduction / POS Dispensing
